@@ -7,7 +7,7 @@
 
 # 체험하기
 호스팅되어있는 라이브 소식-마당을 체험해보고 싶으시다면, [소식마당](https://sosick.shop/) 를 통해서 참여하실 수 있습니다!  
-체험 후 [엘리스 프로젝트 페이지](https://project.sosick.shop/) 을 통해 좋아요 눌러주시면 큰 힘이 됩니다..!
+체험 후 [엘리스 프로젝트 페이지](https://swm.elice.io/portfolios/QqvY0z4aRE/%EC%86%8C%E9%A3%9F%EB%A7%88%EB%8B%B9-(%EC%86%8C%EC%8B%9D%EB%A7%88%EB%8B%B9)---SOsik-MAdang) 을 통해 좋아요 눌러주시면 큰 힘이 됩니다..!
  # 설치하기 (Standalone)
  아래 항목은 소식-마당 서버를 설치하고 배포하는 두가지 방법을 소개합니다.
  ## Docker을 통한 설치
@@ -67,3 +67,13 @@ cd sosick-madang/backend
 npm start
 ```
 이 과정 역시 Docker 설치 방법과 마찬가지로 MySQL 설정이 필요합니다. 환경변수 설정을 하셔도 좋고, 혹은 .env 파일을 만들어서 backend 폴더에 넣은 후 실행시 자동으로 환경변수로 인식합니다.
+
+
+# SW마에스트로 13기 미니프로젝트 40팀
+| 팀원 | 역할 |
+| ---- | ---- |
+| [@KimJinYeon](https://github.com/KimJinYeon) | 프론트엔드 개발 & 기획 |
+| [@pmy02](https://github.com/pmy02) | 백엔드 개발 |
+| [@youlalala](https://github.com/youlalala) | 프론트엔드 개발 & 자료조사 |
+| [@CChuYong](https://github.com/CChuYong) | 백엔드 개발 |
+| [@somnisomni](https://github.com/somnisomni) | 프론트엔드 개발 |
